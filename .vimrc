@@ -154,6 +154,3 @@ nnoremap <C-L> :nohl<CR><C-L>
 
 " Remove trailing whitespace on save
 autocmd BufWritePre * :%s/\s\+$//e
-
-" Show EOL
-set list
