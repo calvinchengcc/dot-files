@@ -16,6 +16,8 @@ filetype indent plugin on
 " Enable syntax highlighting
 syntax on
 
+" Change colour scheme
+colorscheme desert
 
 "------------------------------------------------------------
 " Must have options {{{1
