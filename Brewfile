@@ -16,14 +16,13 @@ brew 'youtube-dl'
 
 tap 'caskroom/cask'
 cask 'apptrap'
-cask 'cleanmymac'
 cask 'coconutbattery'
 cask 'cyberduck'
 cask 'discord'
 cask 'flux'
 cask 'google-backup-and-sync'
 cask 'java'
-cask 'namebench'
+cask 'music-manager'
 cask 'openoffice'
 cask 'shiftit'
 cask 'torbrowser'
@@ -36,8 +35,7 @@ tap 'caskroom/versions'
 cask 'caskroom/versions/iterm2-beta'
 cask 'caskroom/versions/keka-beta'
 cask 'caskroom/versions/google-chrome-dev'
+cask 'caskroom/versions/microsoft-remote-desktop-beta'
 cask 'caskroom/versions/skype7'
 
 mas 'Garageband', id: 682658836
-mas 'Microsoft Remote Desktop', id: 715768417
-
