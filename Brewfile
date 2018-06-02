@@ -16,6 +16,8 @@ brew "tree"
 brew "vim"
 brew "youtube-dl"
 
+cask "android-file-transfer"
+cask "android-platform-tools"
 cask "apptrap"
 cask "coconutbattery"
 cask "cyberduck"
