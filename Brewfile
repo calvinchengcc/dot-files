@@ -39,6 +39,6 @@ cask "xquartz"
 cask "homebrew/cask-versions/google-chrome-dev"
 cask "homebrew/cask-versions/iterm2-beta"
 cask "homebrew/cask-versions/keka-beta"
-cask "homebrew/cask-versions/microsoft-remote-desktop-beta"
 
 mas "GarageBand", id: 682658836
+mas "Microsoft Remote Desktop 10", id: 1295203466
